@@ -31,3 +31,9 @@ A ⊆ B	| Subset: A has some (or all) elements of B | {3,4,5} ⊆ D
 A ⊇ B	| Superset: A has same elements as B, or more	| {1,2,3} ⊇ {1,2,3}
 \|A\|	| Cardinality: the number of elements of set A | \|{3,4}\| = 2
 ∅	| Empty set = {} | {1,2} ∩ {3,4} = Ø
+A ⊆ B	| Subset: A has some (or all) elements of B	| {3,4,5} ⊆ D
+A ⊂ B	| Proper Subset: A has some elements of B	| {3,5} ⊂ D
+A ⊄ B	| Not a Subset: A is not a subset of B | {1,6} ⊄ C
+A ⊇ B	| Superset: A has same elements as B, or more	| {1,2,3} ⊇ {1,2,3}
+A ⊃ B	| Proper Superset: A has B's elements and more | {1,2,3,4} ⊃ {1,2,3}
+A ⊅ B	| Not a Superset: A is not a superset of B | {1,2,6} ⊅ {1,9}
