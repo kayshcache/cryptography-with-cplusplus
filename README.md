@@ -1,4 +1,9 @@
 # cryptography-with-cplusplus
+[Math Symbols Unicode](https://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode)
+### Congruences
+* Theorem 1.3.5, states that 𝒂𝒙 ≡ 𝒃 (mod 𝒏) has a solution if an only if gcd(𝒂, 𝒏) is a divisor of 𝒃.
+* Eg. 42𝒙 ≡ 12 (mod 90) is equivalent to solving the equation 42𝒙 = 12 + 90𝒒 for integers and 𝒒
+
 ### Euclidean Algorithm
 gcd(10, 102) = greatest common divisor of the numbers provided. Also known as the greatest common factor or the largest prime number that divides both/all the numbers provided in the function. The algorithm goes:If either a or b is zero the other number is the gcd of those numbers in accordance with A = B\*Q + R - the algorithm executes those instructions until that condition is met:
 ```
