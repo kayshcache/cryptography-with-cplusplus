@@ -20,6 +20,8 @@ THEREFORE:
 gcd(1050, 108) = 6 = 1050x + 108y
 1050x + 108y = 6
 ```
+\gcd (ka, kb) = k\gcd (a,b).
+gcd (ka, kb) = k gcd (a, b)
 ### Quick notes - Set notation cheatsheet
 Symbol | Meaning | Example
 ------ | ------- | -------
